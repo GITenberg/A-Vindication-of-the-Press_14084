@@ -23,6 +23,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/j#a26500
     - http://en.wikipedia.org/wiki/Daniel_Defoe
 description: Augustan Reprint Society, publication number 29
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14084#A-Vindication-of-the-Press
 gutenberg_issued: '2004-11-18'
 gutenberg_type: Text
 identifiers:
